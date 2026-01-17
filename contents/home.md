@@ -10,8 +10,8 @@ You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-p
 - Environmental Economics
 
 #### Contact: 
-- Email: yuanye.econ@pku.edu.cn
-- [PKU homepage](https://econ.pku.edu.cn/szdw/zzjs/ybjs/sjjxx/50170econ327511.htm)
+- Email: xietingting@cufe.edu.cn
+- [CUFE homepage]([https://econ.cufe.edu.cn/info/1034/7024.htm])
 - Office: (+86) 010-62769539
 - Address: Room 431, School of Economics, Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
 

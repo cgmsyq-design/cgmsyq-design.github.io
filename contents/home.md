@@ -1,4 +1,4 @@
-I am an Associate Professor at [School of Economics]([https://econ.cufe.edu.cn/]) at [Peking University]([https://www.cufe.edu.cn/]). I am affiliated with the Institute for Global Health and Development at Peking University. I have also served as an associate editor for the *Journal of Asian Economics* since 2025.
+I am an Associate Professor at [School of Economics][https://econ.cufe.edu.cn/] at [Peking University](https://www.cufe.edu.cn/). I am affiliated with the Institute for Global Health and Development at Peking University. I have also served as an associate editor for the *Journal of Asian Economics* since 2025.
 
 I received my Ph.D. in Economics from the National University of Singapore in 2017 and my B.S. in Applied Mathematics from the same institution in 2012.  
 
@@ -11,7 +11,7 @@ You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-p
 
 #### Contact: 
 - Email: xietingting@cufe.edu.cn
-- [CUFE homepage]([https://econ.cufe.edu.cn/info/1034/7024.htm])
+- [CUFE homepage](https://econ.cufe.edu.cn/info/1034/7024.htm)
 - Office: (+86) 010-62769539
 - Address: Room 431, School of Economics, Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
 

@@ -1,6 +1,12 @@
-I am an Associate Professor at [School of Economics](https://econ.cufe.edu.cn/) at [Central University of Finance and Economics](https://www.cufe.edu.cn/). I am affiliated with the Institute for Global Health and Development at Peking University. I have also served as an associate editor for the *Journal of Asian Economics* since 2025.
+I am an Associate Professor at [School of Economics](https://econ.cufe.edu.cn/) at [Central University of Finance and Economics](https://www.cufe.edu.cn/). 
+  
+#### Work:
+- 2023~present, Assistant Professor and Master's Supervisor, School of Economics, Central University of Finance and Economics
 
-I received my Ph.D. in Economics from the National University of Singapore in 2017 and my B.S. in Applied Mathematics from the same institution in 2012.  
+#### Education:
+- Ph.D, Political Economics, School of Economics, Peking University, 2019—2023,class ranking 1/36
+- M.S., Economic Geography, College of Urban and Environmental Sciences, Peking University, 2012--2015,class ranking 3/58
+- B.S., Economic Geography, College of Urban and Environmental Sciences, Lanzhou University, 2008--2012,class ranking 1/36
 
 You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
 
@@ -11,7 +17,7 @@ You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-p
 - Email: xietingting@cufe.edu.cn
 - [CUFE homepage](https://econ.cufe.edu.cn/info/1034/7024.htm)
 - Office: (+86) 183-1079-6818
-- Address: School of Economics, Central University of Finance and Economics (CUFE) , 39 South College Road, Haidian District,Beijing, 
+- Address: Room 322, School of Economics, Central University of Finance and Economics (CUFE) , 39 South College Road, Haidian District,Beijing, 
 P.R.China 100081
 
 

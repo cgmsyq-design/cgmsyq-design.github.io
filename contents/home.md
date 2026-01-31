@@ -5,13 +5,13 @@ I received my Ph.D. in Economics from the National University of Singapore in 20
 You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
 
 #### Research interest:
-- Health Economics
-- Development Economics
-- Environmental Economics
+- Focusing on development and urban economics, I am good at the cross research of economics, geography and remote sensing.
 
 #### Contact: 
 - Email: xietingting@cufe.edu.cn
 - [CUFE homepage](https://econ.cufe.edu.cn/info/1034/7024.htm)
-- Office: (+86) 010-62769539
-- Address: Room 431, School of Economics, Peking University, 5 Yiheyuan Road, Haidian District, Beijing, 100871, China.
+- Office: (+86) 183-1079-6818
+- Address: School of Economics, Central University of Finance and Economics (CUFE) , 39 South College Road, Haidian District,Beijing, 
+P.R.China 100081
+
 

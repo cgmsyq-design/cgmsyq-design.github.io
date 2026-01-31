@@ -1,17 +1,4 @@
 
-## Major projects participated in
-
--	国家社科基金青年项目“环境规制下企业动态调整的机制路径、生产率效应及对策研究”(批准号: 19CJY029)，子课题负责人;
--	教育部哲学社会科学研究重大课题攻关项目“建设现代化经济体系的路径与策略研究”（批准号：18JZD029）;
--	国家社科基金“'一带一路'建设”重大研究专项项目引导美欧国家参与“一带一路”建设研究（批准号：18VDL007）;
--	国家“十二五”科技支撑计划“村镇区域空间规划与集约发展关键技术，子课题负责人;
--	国土部课题“中部崛起皖江城市带空间规划技术研究”，参与;
--	世界银行“中国城镇化”专题，参与；
--	国家级工程咨询奖获得项目“武汉都市圈临空经济发展战略研究”，负责人；
--	参与负责完成近80多个咨询项目和研究报告.
-
-
-
 ## Publications & Forthcomings
 1.	Xie Tingting, Yuan Y. Go with the wind: Spatial impacts of environmental regulations on economic activities in China[J]. **Journal of Development Economics**, 2023, 164: 103139.
 1.	Xie Tingting, Yuan Y, Zhang H. Information, awareness, and mental health: Evidence from air pollution disclosure in China[J]. **Journal of Environmental Economics and Management**, 2023, 120: 102827.
@@ -29,7 +16,16 @@
 
 
 
+## Major projects participated in
 
+-	国家社科基金青年项目“环境规制下企业动态调整的机制路径、生产率效应及对策研究”(批准号: 19CJY029)，子课题负责人;
+-	教育部哲学社会科学研究重大课题攻关项目“建设现代化经济体系的路径与策略研究”（批准号：18JZD029）;
+-	国家社科基金“'一带一路'建设”重大研究专项项目引导美欧国家参与“一带一路”建设研究（批准号：18VDL007）;
+-	国家“十二五”科技支撑计划“村镇区域空间规划与集约发展关键技术，子课题负责人;
+-	国土部课题“中部崛起皖江城市带空间规划技术研究”，参与;
+-	世界银行“中国城镇化”专题，参与；
+-	国家级工程咨询奖获得项目“武汉都市圈临空经济发展战略研究”，负责人；
+-	参与负责完成近80多个咨询项目和研究报告.
 
 
 

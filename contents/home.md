@@ -8,7 +8,7 @@ I am an Associate Professor at [School of Economics](https://econ.cufe.edu.cn/) 
 - M.S., Economic Geography, College of Urban and Environmental Sciences, Peking University, 2012--2015,class ranking 3/58
 - B.S., Economic Geography, College of Urban and Environmental Sciences, Lanzhou University, 2008--2012,class ranking 1/36
 
-You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-YuanYe-public.pdf">CV here</a>.
+You can find my <a href="https://yuanye-econ.github.io/static/assets/CV-Tingting Xie2025.pdf">CV here</a>.
 
 #### Research interest:
 - Focusing on development and urban economics, I am good at the cross research of economics, geography and remote sensing.
